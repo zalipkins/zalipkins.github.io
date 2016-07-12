@@ -36,10 +36,10 @@ body {
 .logobox {
 	width: 100%;
 	height: 100%;
-	background-image: url(images/zach.gif);
+	background-image: url(images/croppedzach.gif);
 	background-repeat: no-repeat;
 	background-position: center center;
-	background-size: 24% auto;
+	background-size: 20% auto;
 	z-index: 10;
 	margin-right: auto;
 	margin-left: auto;
@@ -61,7 +61,7 @@ body {
 
 @media only screen and (max-width: 1300px) {
 	.logobox {
-	background-size: 35% auto;
+	background-size: 30% auto;
 	}
 
 }
@@ -69,7 +69,7 @@ body {
 
 @media only screen and (max-width: 701px) {
 	.logobox {
-background-size: 55% auto;
+background-size: 50% auto;
 	}
 
 
