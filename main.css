@@ -53,6 +53,9 @@ body {
 
 .listen img {
 	-webkit-animation: glow 3s ease infinite;
+	-moz-animation: glow 3s ease infinite;
+	-o-animation: glow 3s ease infinite;
+	-ms-animation: glow 3s ease infinite;
 }
 
 @-webkit-keyframes glow {
